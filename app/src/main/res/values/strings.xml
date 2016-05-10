@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">只是灯</string>
+    <string name="ui_flashlight">手电筒</string>
+    <string name="ui_warning_light">警示灯</string>
+    <string name="ui_scrnlight">屏幕灯</string>
+    <string name="ui_information">信息</string>
+    <string name="ui_colorful_light">警灯</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pred">#ff8686</color>
+    <color name="pyellow">#ffff86</color>
+    <color name="pbule">#8697ff</color>
+    <color name="pgreen">#86ff86</color>
+    <color name="pwhite">#ffffff</color>
+    <color name="bg">#7d7d7d</color>
+    <color name="organge">#eb6100</color>
+    <color name="tbg">#434343</color>
+
+</resources>

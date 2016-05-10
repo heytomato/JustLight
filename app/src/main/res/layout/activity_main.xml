@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#7d7d7d">
+
+    <include layout="@layout/ui_flashlight"/>
+    <include layout="@layout/ui_warning_light"/>
+    <include layout="@layout/ui_scrn_light"/>
+    <include layout="@layout/ui_colorful_light"/>
+    <include layout="@layout/ui_information"/>
+    <include layout="@layout/ui_main"/>
+    <include layout="@layout/activity_title"/>
+</FrameLayout>
