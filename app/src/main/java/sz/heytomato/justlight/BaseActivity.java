@@ -16,7 +16,7 @@ import android.widget.SeekBar;
 import android.widget.Toast;
 
 /**
- * Created by Administrator on 2016/5/6.
+ * Created by Heytomato on 2016/5/6.
  */
 public class BaseActivity extends AppCompatActivity {
 
